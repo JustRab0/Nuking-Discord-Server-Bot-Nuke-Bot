@@ -48,15 +48,15 @@ from colorama import init, Fore
 init(autoreset=True)
 
 # 
-__TITLE__ = "C-REAL"
+__TITLE__ = "SEEVO BOMBER"
 __VERSION__ = "2.4.1"
-__AUTHOR__ = "TKperson"
+__AUTHOR__ = "Seevo"
 __LICENSE__ = "MIT"
 
 # Global vars
 per_page = 15
 commands_per_page = 5
-number_of_bomb_default = 250
+number_of_bomb_default = 300
 selected_server = None
 sorted_commands = []
 webhook_targets = []
